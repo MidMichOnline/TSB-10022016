@@ -1,1 +1,2 @@
-# TSB-10022016
+# The Shepherd Bulletin
+## October 3, 2016
