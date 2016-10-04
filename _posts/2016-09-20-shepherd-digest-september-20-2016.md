@@ -1,25 +1,27 @@
 ---
-ID: 353
-post_title: 'Shepherd Digest &#8211; September 20, 2016'
-author: Jon Morgan
-post_date: 2016-09-20 02:18:23
-post_excerpt: ""
-layout: post
-permalink: >
-  http://www.shepherdhistory.org/blog/shepherd-digest-september-20-2016/
-published: true
-wide_assets:
-  - ""
-afap_auto_post:
-  - 'no'
-custom_sidebar:
-  - none
-top_term:
-  - "60"
-tags: [ ]
+title: Shepherd Digest September 20 2016
+date: 2016-09-20 00:00:00 Z
+permalink: 'http://www.shepherdhistory.org/blog/shepherd-digest-september-20-2016/
+
+'
 categories:
-  - Shepherd Digests
+- Shepherd Digests
+ID: 353
+post_title: Shepherd Digest &#8211; September 20, 2016
+author: Jon Morgan
+post_date: 2016-09-20 02:18:23 Z
+post_excerpt: ''
+layout: post
+wide_assets:
+- ''
+afap_auto_post:
+- 'no'
+custom_sidebar:
+- none
+top_term:
+- '60'
 ---
+
 [pt_view id="201d68c74g"]
 <h2>Mid Michigan News</h2>
 [rounduplink id="345" title="Fire destroys Edmore buildingEdit"]

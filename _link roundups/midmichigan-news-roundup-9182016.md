@@ -1,20 +1,21 @@
 ---
+permalink: 'http://www.shepherdhistory.org/blog/roundup/midmichigan-news-roundup-9182016/
+
+'
 ID: 254
 post_title: MidMichigan News Roundup 9/18/2016
 author: Jon Morgan
-post_date: 2016-09-18 14:41:24
-post_excerpt: ""
+post_date: 2016-09-18 14:41:24 Z
+post_excerpt: ''
 layout: roundup
-permalink: >
-  http://www.shepherdhistory.org/blog/roundup/midmichigan-news-roundup-9182016/
-published: true
 wide_assets:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
-tags: [ ]
+- a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}
+tags: []
 categories:
-  - Mid Michigan News
-  - Roundup
+- Mid Michigan News
+- Roundup
 ---
+
 [rounduplink id="197" title="Shepherd boy’s flag stolen from farm standEdit"]
 
 [rounduplink id="196" title="CMU football parents host gourmet tailgatingEdit]

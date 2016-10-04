@@ -1,29 +1,29 @@
 ---
+title: '["a:1:{i:0;s:43:\"a:1:{i:0;s:25:\"Take my Newspaper, Please\";}\";}"]'
+date: 2016-09-21 00:00:00 Z
+permalink: 'http://www.shepherdhistory.org/blog/of-banner_image_lg/
+
+'
+categories:
+- Uncategorized
 ID: 169
 post_title: Take my Newspaper, Please
 author: Jon Morgan
-post_date: 2016-09-21 02:11:43
-post_excerpt: ""
+post_date: 2016-09-21 02:11:43 Z
+post_excerpt: ''
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/blog/of-banner_image_lg/
-published: true
 wide_assets:
-  - 'a:1:{i:0;s:0:"";}'
-title:
-  - 'a:1:{i:0;s:43:"a:1:{i:0;s:25:"Take my Newspaper, Please";}";}'
+- a:1:{i:0;s:0:"";}
 source-id:
-  - 'a:1:{i:0;s:62:"a:1:{i:0;s:44:"13mzhZ3GdUMJgQEhm121G8oJXfrGGGYehVUmPGiFiTFE";}";}'
+- a:1:{i:0;s:62:"a:1:{i:0;s:44:"13mzhZ3GdUMJgQEhm121G8oJXfrGGGYehVUmPGiFiTFE";}";}
 largo_byline_text:
-  - 'a:1:{i:0;s:10:"Jon Morgan";}'
+- a:1:{i:0;s:10:"Jon Morgan";}
 custom_sidebar:
-  - 'a:1:{i:0;s:4:"none";}'
+- a:1:{i:0;s:4:"none";}
 top_term:
-  - 'a:1:{i:0;s:1:"1";}'
-tags: [ ]
-categories:
-  - Uncategorized
+- a:1:{i:0;s:1:"1";}
 ---
+
 Ross Connelly wants to get out of the newspaper business, so he started a contest to help him select a new owner. Entry required a fee of $175 and an essay. The deadline was in August, but after getting too few submissions he has extended the deadline until September.
 
 The <a href="http://www.nytimes.com/2016/08/26/us/want-to-own-a-newspaper-a-vermont-contest-has-trouble-finding-takers.html">article </a> on the *New York Times *website goes on to describe how the Gazette  has benefitted its community, and how changes in the Journalism industry has hurt it.

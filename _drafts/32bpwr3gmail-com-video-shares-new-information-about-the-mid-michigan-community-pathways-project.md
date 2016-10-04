@@ -1,19 +1,21 @@
 ---
+title: 32bpwr3gmail Com Video Shares New Information About The Mid Michigan Community
+  Pathways Project
+date: 2016-10-04 23:32:03.054000000 Z
+permalink: http://www.shepherdhistory.org/?post_type=fork&p=629
 ID: 629
-post_title: '32bpwr3gmail-com &#187; Video shares new information about the Mid Michigan Community Pathways Project'
+post_title: 32bpwr3gmail-com &#187; Video shares new information about the Mid Michigan
+  Community Pathways Project
 author: Jon Morgan
-post_date: 2016-09-25 22:48:49
-post_excerpt: ""
+post_date: 2016-09-25 22:48:49 Z
+post_excerpt: ''
 layout: fork
-permalink: 'http://www.shepherdhistory.org/?post_type=fork&p=629'
-published: false
 wide_assets:
-  - 'a:1:{i:0;s:0:"";}'
-tags: [ ]
-categories: [ ]
+- a:1:{i:0;s:0:"";}
 afap_auto_post:
-  - 'a:1:{i:0;s:3:"yes";}'
+- a:1:{i:0;s:3:"yes";}
 ---
+
 A new video released to Facebook this week shared new information about the progress being made on the Mid Michigan Community Pathways Project:
 
 

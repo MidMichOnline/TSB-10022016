@@ -1,26 +1,28 @@
 ---
-ID: 628
-post_title: >
-  Shepherd High School Announcements
-  9/23/2016
-author: Jon Morgan
-post_date: 2016-09-28 19:35:22
-post_excerpt: ""
-layout: post
-permalink: >
-  http://www.shepherdhistory.org/blog/shepherd-high-school-announcements-9232016/
-published: true
-wide_assets:
-  - ""
-afap_auto_post:
-  - 'yes'
-custom_sidebar:
-  - none
-tags: [ ]
+title: Shepherd High School Announcements 9232016
+date: 2016-09-28 00:00:00 Z
+permalink: 'http://www.shepherdhistory.org/blog/shepherd-high-school-announcements-9232016/
+
+'
 categories:
-  - Schools
-  - Shepherd High School
+- Schools
+- Shepherd High School
+ID: 628
+post_title: 'Shepherd High School Announcements 9/23/2016
+
+'
+author: Jon Morgan
+post_date: 2016-09-28 19:35:22 Z
+post_excerpt: ''
+layout: post
+wide_assets:
+- ''
+afap_auto_post:
+- 'yes'
+custom_sidebar:
+- none
 ---
+
 <em>Announcements for Friday, September 23rd from the <a href="">Shepherd High School</a>:</em>
 
 <ul>

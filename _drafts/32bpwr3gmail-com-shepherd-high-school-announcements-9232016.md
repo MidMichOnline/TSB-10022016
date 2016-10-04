@@ -1,17 +1,17 @@
 ---
+title: 32bpwr3gmail Com Shepherd High School Announcements 9232016
+date: 2016-10-04 23:32:03.016000000 Z
+permalink: http://www.shepherdhistory.org/?post_type=fork&p=647
 ID: 647
-post_title: '32bpwr3gmail-com &#187; Shepherd High School Announcements 9/23/2016'
+post_title: 32bpwr3gmail-com &#187; Shepherd High School Announcements 9/23/2016
 author: Jon Morgan
-post_date: 2016-09-25 22:48:47
-post_excerpt: ""
+post_date: 2016-09-25 22:48:47 Z
+post_excerpt: ''
 layout: fork
-permalink: 'http://www.shepherdhistory.org/?post_type=fork&p=647'
-published: false
 wide_assets:
-  - 'a:1:{i:0;s:0:"";}'
-tags: [ ]
-categories: [ ]
+- a:1:{i:0;s:0:"";}
 ---
+
 <em>Announcements for Friday, September 23rd from the <a href="">Shepherd High School</a>:</em>
 
 <ul>

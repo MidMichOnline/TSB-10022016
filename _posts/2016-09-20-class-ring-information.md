@@ -1,27 +1,29 @@
 ---
+title: Class Ring Information
+date: 2016-09-20 00:00:00 Z
+permalink: 'http://www.shepherdhistory.org/blog/class-ring-information/
+
+'
+categories:
+- Schools
+- Shepherd High School
+- TSD-09212016
 ID: 378
 post_title: SHS Class Ring Information for Sophmores
 author: Jon Morgan
-post_date: 2016-09-20 21:51:49
-post_excerpt: ""
+post_date: 2016-09-20 21:51:49 Z
+post_excerpt: ''
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/blog/class-ring-information/
-published: true
 wide_assets:
-  - ""
+- ''
 afap_auto_post:
-  - 'no'
+- 'no'
 custom_sidebar:
-  - none
+- none
 top_term:
-  - "46"
-tags: [ ]
-categories:
-  - Schools
-  - Shepherd High School
-  - TSD-09212016
+- '46'
 ---
+
 <em>From the <a href="https://www.facebook.com/shepherdmihs/?fref=nf">Shepherd High School</a>:</em>
 <blockquote>Sophomores students, it's time to order your class ring!
 

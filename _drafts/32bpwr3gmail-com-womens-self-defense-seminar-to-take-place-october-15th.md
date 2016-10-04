@@ -1,17 +1,18 @@
 ---
+title: 32bpwr3gmail Com Womens Self Defense Seminar To Take Place October 15th
+date: 2016-10-04 23:32:03.073000000 Z
+permalink: http://www.shepherdhistory.org/?post_type=fork&p=319
 ID: 319
-post_title: '32bpwr3gmail-com &#187; Women&#8217;s Self Defense Seminar to take place October 15th'
+post_title: 32bpwr3gmail-com &#187; Women&#8217;s Self Defense Seminar to take place
+  October 15th
 author: Jon Morgan
-post_date: 2016-09-25 22:48:49
-post_excerpt: ""
+post_date: 2016-09-25 22:48:49 Z
+post_excerpt: ''
 layout: fork
-permalink: 'http://www.shepherdhistory.org/?post_type=fork&p=319'
-published: false
 wide_assets:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
-tags: [ ]
-categories: [ ]
+- a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}
 ---
+
 ## Women's Self Defense Seminar to take place October 15th
 <em>From the <a href="">Shepherd Police Department</a>:</em>
 

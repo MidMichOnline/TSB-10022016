@@ -1,20 +1,21 @@
 ---
+permalink: 'http://www.shepherdhistory.org/event/shepherd-k-3rd-grades-cheer-clinic/
+
+'
 ID: 391
 post_title: Shepherd K-3rd grades Cheer Clinic
 author: Jon Morgan
-post_date: 2016-09-20 22:13:30
-post_excerpt: ""
+post_date: 2016-09-20 22:13:30 Z
+post_excerpt: ''
 layout: event
-permalink: >
-  http://www.shepherdhistory.org/event/shepherd-k-3rd-grades-cheer-clinic/
-published: true
 wide_assets:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
+- a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}
 afap_auto_post:
-  - 'a:1:{i:0;s:19:"a:1:{i:0;s:2:"no";}";}'
-tags: [ ]
-categories: [ ]
+- a:1:{i:0;s:19:"a:1:{i:0;s:2:"no";}";}
+tags: []
+categories: []
 ---
+
 Who: Youth ages Kindergarten through 3rd grade
 
 What: A youth cheer clinic to introduce cheerleading basics including- cheers, stretching, motions, tumbling and stunting taught by the varsity cheerleaders.

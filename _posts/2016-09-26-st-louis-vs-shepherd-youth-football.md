@@ -1,24 +1,26 @@
 ---
+title: St Louis Vs Shepherd Youth Football
+date: 2016-09-26 00:00:00 Z
+permalink: 'http://www.shepherdhistory.org/blog/st-louis-vs-shepherd-youth-football/
+
+'
+categories:
+- Community
+- Sports
 ID: 573
 post_title: St. Louis vs. Shepherd Youth Football
 author: Jon Morgan
-post_date: 2016-09-26 19:25:29
-post_excerpt: ""
+post_date: 2016-09-26 19:25:29 Z
+post_excerpt: ''
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/blog/st-louis-vs-shepherd-youth-football/
-published: true
 wide_assets:
-  - ""
+- ''
 afap_auto_post:
-  - 'yes'
+- 'yes'
 custom_sidebar:
-  - none
+- none
 top_term:
-  - "48"
-tags: [ ]
-categories:
-  - Community
-  - Sports
+- '48'
 ---
+
 The Shepherd Youth Football Program Facebook page shared a link to a <a href="http://trishahydeseniorsportsphotography.pixieset.com/stlouisvsshepherdyouthfootball/">photo album with photos from their game against St. Louis</a>.

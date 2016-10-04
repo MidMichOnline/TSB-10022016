@@ -1,21 +1,21 @@
 ---
+title: '["a:1:{i:0;s:61:\"a:1:{i:0;s:43:\"Re- Shepherd High School Announcements.docx\";}\";}"]'
+date: 2016-09-21 00:00:00 Z
+permalink: 'http://www.shepherdhistory.org/blog/shepherd-high-school-announcements/
+
+'
+categories:
+- Uncategorized
 ID: 109
 post_title: Shepherd High School Announcements
-author: ""
-post_date: 2016-09-21 02:11:41
-post_excerpt: ""
+author: ''
+post_date: 2016-09-21 02:11:41 Z
+post_excerpt: ''
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/blog/shepherd-high-school-announcements/
-published: true
-title:
-  - 'a:1:{i:0;s:61:"a:1:{i:0;s:43:"Re- Shepherd High School Announcements.docx";}";}'
 source-id:
-  - 'a:1:{i:0;s:62:"a:1:{i:0;s:44:"1I-E9WvtWvK2zuxaXXrT4wqz5veNu29UAWNhbTmwAiKY";}";}'
-tags: [ ]
-categories:
-  - Uncategorized
+- a:1:{i:0;s:62:"a:1:{i:0;s:44:"1I-E9WvtWvK2zuxaXXrT4wqz5veNu29UAWNhbTmwAiKY";}";}
 ---
+
 **Jon:** Here is a quick summary of the information posted by the [Shepherd High School on its Facebook page ](https://www.facebook.com/shepherdmihs/posts/511963658998724)Wednesday and Thursday.
 
 * If you are a morning Mt. Pleasant Career Tech student (vocational education) this is for you: classes start on **Tuesday, September 7**. The bus to ride to Mt. Pleasant is 13-1 and will be in the bus loop. You will need to be on the bus at 7:45 am.

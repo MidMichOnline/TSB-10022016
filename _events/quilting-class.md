@@ -1,20 +1,21 @@
 ---
+permalink: 'http://www.shepherdhistory.org/event/quilting-class/
+
+'
 ID: 569
 post_title: Quilting Class
 author: Jon Morgan
-post_date: 2016-09-25 19:01:23
-post_excerpt: ""
+post_date: 2016-09-25 19:01:23 Z
+post_excerpt: ''
 layout: event
-permalink: >
-  http://www.shepherdhistory.org/event/quilting-class/
-published: true
 wide_assets:
-  - 'a:1:{i:0;s:0:"";}'
+- a:1:{i:0;s:0:"";}
 afap_auto_post:
-  - 'a:1:{i:0;s:3:"yes";}'
-tags: [ ]
-categories: [ ]
+- a:1:{i:0;s:3:"yes";}
+tags: []
+categories: []
 ---
+
 <ul>
  	<li><strong>What:</strong> Quilting Class</li>
  	<li><strong>Where:</strong> Shepherd United Methodist Church Fellowship Hall</li>

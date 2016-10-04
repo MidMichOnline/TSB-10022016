@@ -1,25 +1,26 @@
 ---
-ID: 143
-post_title: >
-  Shepherd Community Friends of the
-  Library Membership Information
-author: ""
-post_date: 2016-09-21 02:11:38
-post_excerpt: ""
-layout: post
-permalink: >
-  http://www.shepherdhistory.org/blog/shepherd-community-friends-of-the-library-membership-information/
-published: true
-title:
-  - 'a:1:{i:0;s:82:"a:1:{i:0;s:64:"Shepherd Community Friends of the Library Membership Information";}";}'
-source-id:
-  - 'a:1:{i:0;s:62:"a:1:{i:0;s:44:"1IFw5qT0RzJyya5JQ114Va7Rm-u-fnNIzN8pWNWZWkqI";}";}'
-post_views_count:
-  - 'a:1:{i:0;s:18:"a:1:{i:0;s:1:"4";}";}'
-tags: [ ]
+title: '["a:1:{i:0;s:82:\"a:1:{i:0;s:64:\"Shepherd Community Friends of the Library
+  Membership Information\";}\";}"]'
+date: 2016-09-21 00:00:00 Z
+permalink: 'http://www.shepherdhistory.org/blog/shepherd-community-friends-of-the-library-membership-information/
+
+'
 categories:
-  - Uncategorized
+- Uncategorized
+ID: 143
+post_title: 'Shepherd Community Friends of the Library Membership Information
+
+'
+author: ''
+post_date: 2016-09-21 02:11:38 Z
+post_excerpt: ''
+layout: post
+source-id:
+- a:1:{i:0;s:62:"a:1:{i:0;s:44:"1IFw5qT0RzJyya5JQ114Va7Rm-u-fnNIzN8pWNWZWkqI";}";}
+post_views_count:
+- a:1:{i:0;s:18:"a:1:{i:0;s:1:"4";}";}
 ---
+
 Annual dues for membership with the Friends of the Shepherd Community library are as follows;
 
 <ul>

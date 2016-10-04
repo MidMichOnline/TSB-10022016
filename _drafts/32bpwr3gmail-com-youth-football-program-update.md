@@ -1,17 +1,17 @@
 ---
+title: 32bpwr3gmail Com Youth Football Program Update
+date: 2016-10-04 23:32:03.101000000 Z
+permalink: http://www.shepherdhistory.org/?post_type=fork&p=244
 ID: 244
-post_title: '32bpwr3gmail-com &#187; Youth Football Program Update'
+post_title: 32bpwr3gmail-com &#187; Youth Football Program Update
 author: Jon Morgan
-post_date: 2016-09-25 22:48:49
-post_excerpt: ""
+post_date: 2016-09-25 22:48:49 Z
+post_excerpt: ''
 layout: fork
-permalink: 'http://www.shepherdhistory.org/?post_type=fork&p=244'
-published: false
 wide_assets:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
-tags: [ ]
-categories: [ ]
+- a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}
 ---
+
 <h2>Youth Football Program Update</h2>
 <em>From the <a href="https://www.facebook.com/Shepherdyouthfootball/?fref=nf">Shepherd Youth Football Program</a>:</em>
 <blockquote>Great day to be a Blue Jay! Congrats to our 8th, 7th, 6th, and 5th grade tackle teams on sweeping Central Montcalm today!!!</blockquote>
