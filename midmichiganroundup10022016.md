@@ -1,3 +1,4 @@
+
 ## MidMichigan News Roundup
 ### October 2, 2016
 
