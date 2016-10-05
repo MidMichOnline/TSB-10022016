@@ -1,6 +1,3 @@
 # Summary
 
-* [Introduction](README.md)
-* [MidmichiganRoundup10022016](midmichiganroundup10022016.md)
-* [CrossCountryHoliday5K](crosscountryholiday5k.md)
-
+* [October 5, 2016](10052016/10052016_summary)
