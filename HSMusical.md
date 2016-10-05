@@ -1,3 +1,14 @@
+---
+ID: 
+post_title: Open Auditions to be Held for High School Musical
+author:
+post_date: 
+post_excerpt: ""
+layout: post
+published: false
+tags:
+categories:
+---
 #Open Auditions to be Held for High School Musical
 
 *From the [Shepherd High School](http://www.shepherdhistory.org/business-directory/name/shepherd-high-school/):
