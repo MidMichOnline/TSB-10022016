@@ -1,21 +1,31 @@
 ---
-title: Shs Oct 4 Announcements
-date: 2016-10-05 00:00:00 Z
-permalink: http://www.shepherdhistory.org?p=793&preview=true&preview_id=793
-categories:
-- Uncategorized
 ID: 793
 post_title: SHS Oct. 4 Announcements
 author: Jon Morgan
-post_date: 2016-10-05 17:44:58 Z
-post_excerpt: ''
+post_date: 2016-10-05 18:08:27
+post_excerpt: ""
 layout: post
+permalink: 'http://www.shepherdhistory.org?p=793&preview=true&preview_id=793'
+published: false
+tags: [ ]
+categories:
+  - Uncategorized
+title:
+  - Shs Oct 4 Announcements
+date:
+  - 2016-10-05 00:00:00 Z
+afap_auto_post:
+  - 'yes'
+wide_assets:
+  - ""
+custom_sidebar:
+  - none
+top_term:
+  - "1"
 ---
-
 *From the [Shepherd High School](http://www.shepherdhistory.org/business-directory/name/shepherd-high-school/):*
 
-**Announcements for Tuesday, October 4th!
-**
+**Announcements for Tuesday, October 4th!**
 * Homecoming dance tickets are on sale outside the office before school and during lunch. Tickets cost $15 dollars.
 * Interested in participating in games at the pep assembly on Friday? Sign up sheets are in the office.
 * Hall decorating is after school Thursday and goes until 8:00. Come and support your class!
