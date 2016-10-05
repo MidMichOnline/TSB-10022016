@@ -1,36 +1,33 @@
 ---
-ID: 795
-post_title: 'The Brief &amp;'
-author: Jon Morgan
-post_date: 2016-10-05 18:52:11
-post_excerpt: ""
-layout: post
+title: '["[\"The Brief October 5 2016\"]"]'
+date: 2016-10-05 00:00:00 Z
 permalink: http://www.shepherdhistory.org/?p=795
-published: false
-tags: [ ]
 categories:
-  - Uncategorized
-title:
-  - '["The Brief October 5 2016"]'
-date:
-  - 2016-10-05 00:00:00 Z
+- Uncategorized
+ID: 795
+post_title: The Brief &amp;
+author: Jon Morgan
+post_date: 2016-10-05 18:52:11 Z
+post_excerpt: ''
+layout: post
 afap_auto_post:
-  - ""
+- ''
 wide_assets:
-  - ""
+- ''
 custom_sidebar:
-  - ""
+- ''
 top_term:
-  - ""
-1:
-  - 'yes'
-2:
-  - ""
-3:
-  - none
-4:
-  - "1"
+- ''
+'1':
+- 'yes'
+'2':
+- ''
+'3':
+- none
+'4':
+- '1'
 ---
+
 <h1>The Brief</h1>
 
 <h2>October 5, 2016</h2>
