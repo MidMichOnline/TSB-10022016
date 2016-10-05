@@ -1,2 +1,1 @@
-# The Shepherd Bulletin
-## October 3, 2016
+# The Shepherd Journal
