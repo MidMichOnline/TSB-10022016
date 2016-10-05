@@ -1,5 +1,6 @@
-# Content
+# Summary
 
-##News Roundup
+* [Introduction](README.md)
 * [Shepherd Police Intercepted Drunk driver driving the wrong way on US-127](10052016/drunkdriver.md)
+* Open Auditions to be Held for High School Musical
 
