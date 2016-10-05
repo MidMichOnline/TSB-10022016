@@ -6,5 +6,5 @@
 * [Holiday 5K Series Kicks off with Haunted Trail 5K on October 22](crosscountryholiday5k.md)
 * [Mt. Pleasant park bridge vandalized](http:/www.themorningsun.com/general-news/20161004/mt-pleasant-park-bridge-vandalized)
 * [Revenge: WCZY boss eyes Mt. Pleasant chamber’s Hyble for charity](http:/www.themorningsun.com/general-news/20161004/revenge-wczy-boss-eyes-mt-pleasant-chambers-hyble-for-charity)
-* SHS_10042016
+* [SHS_10042016](shs10042016.md)
 
