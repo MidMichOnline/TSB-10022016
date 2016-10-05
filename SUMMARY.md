@@ -7,5 +7,5 @@
 * [SHS Oct. 4 Announcements](shs10042016.md)
 * [Mt. Pleasant park bridge vandalized](http:/www.themorningsun.com/general-news/20161004/mt-pleasant-park-bridge-vandalized)
 * [Revenge: WCZY boss eyes Mt. Pleasant chamber’s Hyble for charity](http:/www.themorningsun.com/general-news/20161004/revenge-wczy-boss-eyes-mt-pleasant-chambers-hyble-for-charity)
-* October 5, 2016
+* [October 5, 2016](october_5,_2016.md)
 
