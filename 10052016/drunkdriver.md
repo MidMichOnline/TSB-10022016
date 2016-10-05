@@ -1,13 +1,13 @@
 ---
-post_excerpt: null
-layout: post
-author: null
-post_date: null
 published: false
-tags: null
+post_excerpt: 
+layout: post
+author: 
+post_date: 
+tags: 
 post_title: Shepherd Police Intercepted Drunk driver driving the wrong way on US-127
-ID: null
-categories: null
+ID: 
+categories: 
 ---
 
 # Shepherd Police Intercepted Drunk driver driving the wrong way on US-127
