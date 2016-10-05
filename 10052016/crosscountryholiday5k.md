@@ -1,14 +1,15 @@
 ---
+published: false
 ID: 
 post_title: Holiday 5K Series Kicks off with Haunted Trail 5K on October 22
 author: Jon Morgan
 post_date: 
-post_excerpt: ""
+post_excerpt: ''
 layout: post
-published: false
-tags:
-categories:
+tags: 
+categories: 
 ---
+
 # Holiday 5K Series Kicks off with Haunted Trail 5K on October 22
 
 From the [Shepherd Maple Syrup Festival 5K & 10K Facebook page](http://www.shepherdhistory.org/business-directory/):
