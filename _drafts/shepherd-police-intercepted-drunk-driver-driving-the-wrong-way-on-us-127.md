@@ -1,19 +1,20 @@
 ---
-ID: 815
-post_title: >
-  Shepherd Police Intercepted Drunk driver
-  driving the wrong way on US-127
-author: Jon Morgan
-post_date: 2016-10-05 18:34:23
-post_excerpt: ""
-layout: post
-permalink: 'http://www.shepherdhistory.org?p=815&preview=true&preview_id=815'
-published: false
-tags: [ ]
+title: Shepherd Police Intercepted Drunk Driver Driving The Wrong Way On Us 127
+date: 2016-10-05 00:00:00 Z
+permalink: http://www.shepherdhistory.org?p=815&preview=true&preview_id=815
 categories:
-  - Community
-  - Organizations
+- Community
+- Organizations
+ID: 815
+post_title: 'Shepherd Police Intercepted Drunk driver driving the wrong way on US-127
+
+'
+author: Jon Morgan
+post_date: 2016-10-05 18:34:23 Z
+post_excerpt: ''
+layout: post
 ---
+
 WNEM5 reports that Shepherd Police caught a drunk driver driving the wrong way on US-127 on Sunday.
 
 > Shepherd Police report that they saw a vehicle going north in the southbound lanes of US-127 in Isabella County’s Coe Township. Investigators report the driver was intoxicated and was arrested for operating while intoxicated.
