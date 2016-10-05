@@ -3,7 +3,7 @@ ID:
 post_title: Open Auditions to be Held for High School Musical
 author:
 post_date: 
-post_excerpt: ""
+post_excerpt:
 layout: post
 published: false
 tags:
