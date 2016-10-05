@@ -1,6 +1,6 @@
 #Open Auditions to be Held for High School Musical
 
-*From the Shepherd High School:
+*From the [Shepherd High School](http://www.shepherdhistory.org/business-directory/name/shepherd-high-school/):
 *
 
 > Open Auditions for the 2016-2017 High School Musical Beauty and the Beast will be held on Tuesday, October 11th. 
