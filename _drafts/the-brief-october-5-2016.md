@@ -1,16 +1,17 @@
 ---
-ID: 795
-post_title: 'The Brief &#8211; October 5, 2016'
-author: Jon Morgan
-post_date: 2016-10-05 17:44:58
-post_excerpt: ""
-layout: post
-permalink: 'http://www.shepherdhistory.org?p=795&preview=true&preview_id=795'
-published: false
-tags: [ ]
+title: The Brief October 5 2016
+date: 2016-10-05 00:00:00 Z
+permalink: http://www.shepherdhistory.org?p=795&preview=true&preview_id=795
 categories:
-  - Uncategorized
+- Uncategorized
+ID: 795
+post_title: The Brief &#8211; October 5, 2016
+author: Jon Morgan
+post_date: 2016-10-05 17:44:58 Z
+post_excerpt: ''
+layout: post
 ---
+
 # The Brief
 ## October 5, 2016
 
