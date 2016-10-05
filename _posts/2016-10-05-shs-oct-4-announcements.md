@@ -1,19 +1,84 @@
 ---
-published: false
-ID: 
-post_title: Open Auditions to be Held for High School Musical
-author: 
-post_date: 
-post_excerpt: 
+title: '["[\"[\"[\"Shs Oct 4 Announcements\"]\"]\"]"]'
+date: 2016-10-05 00:00:00 Z
+permalink: 'http://www.shepherdhistory.org/blog/shs-oct-4-announcements/
+
+'
+categories:
+- Uncategorized
+ID: 793
+post_title: SHS Oct. 4 Announcements
+author: Jon Morgan
+post_date: 2016-10-05 18:08:27 Z
+post_excerpt: ''
 layout: post
-tags: 
-categories: 
+afap_auto_post:
+- 'no'
+wide_assets:
+- ''
+custom_sidebar:
+- none
+top_term:
+- '1'
+'1':
+- ''
+'2':
+- ''
+'3':
+- ''
+'4':
+- ''
+'5':
+- ''
+'6':
+- ''
+'7':
+- ''
+'8':
+- ''
+'9':
+- 'yes'
+'10':
+- ''
+'11':
+- none
+'12':
+- '1'
+'13':
+- ''
+'14':
+- 'yes'
+'15':
+- ''
+'16':
+- none
+'17':
+- '1'
+'18':
+- ''
+'19':
+- 'yes'
+'20':
+- ''
+'21':
+- none
+'22':
+- '1'
+'23':
+- ''
+'24':
+- 'yes'
+'25':
+- ''
+'26':
+- none
+'27':
+- '1'
 ---
-# SHS Oct. 4 Announcements
+
 *From the [Shepherd High School](http://www.shepherdhistory.org/business-directory/name/shepherd-high-school/):*
 
-**Announcements for Tuesday, October 4th!
-**
+**Announcements for Tuesday, October 4th!**
 * Homecoming dance tickets are on sale outside the office before school and during lunch. Tickets cost $15 dollars.
 * Interested in participating in games at the pep assembly on Friday? Sign up sheets are in the office.
 * Hall decorating is after school Thursday and goes until 8:00. Come and support your class!
@@ -28,4 +93,3 @@ categories:
 * Sophomore students and parents: Class ring orders will take place on Wednesday, October 5 during lunch (11:44-12:25) and after school 3:00-5:00 pm, outside of the office.
 * Driver's Training, Segment 1, class information: Starts TODAY! All classes will begin at 6:00 pm and ending at 8:00 pm, and are held in room 100. Classes will take place on the following dates: October: 4, 6, 10, 12, 17, 24 and 25 and November: 1, 2, 3, 7, and 8. The cost for Segment 1 will be $275.00, payable by check or money order made payable to Shepherd Public Schools. Spots in Segment 1 are still available. Students must sign up in the high school office. Payment will need to be made before the first class, October 4th, begins.
 * Seniors: There will be a representative from Central Michigan University here on October 4th to meet with students individually. There is a sign up sheet in the senior hallway. Please sign up there.
-
