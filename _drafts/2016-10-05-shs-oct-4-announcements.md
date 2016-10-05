@@ -1,16 +1,16 @@
 ---
-published: false
-ID: 
-post_title: Open Auditions to be Held for High School Musical
-author: 
-post_date: 
-post_excerpt: 
+ID: 793
+post_title: SHS Oct. 4 Announcements
+author: Jon Morgan
+post_date: 2016-10-05 17:44:58
+post_excerpt: ""
 layout: post
-tags: 
-categories: 
+permalink: 'http://www.shepherdhistory.org?p=793&preview=true&preview_id=793'
+published: false
+tags: [ ]
+categories:
+  - Uncategorized
 ---
-
-# SHS Oct. 4 Announcements
 *From the [Shepherd High School](http://www.shepherdhistory.org/business-directory/name/shepherd-high-school/):*
 
 **Announcements for Tuesday, October 4th!
@@ -29,4 +29,3 @@ categories:
 * Sophomore students and parents: Class ring orders will take place on Wednesday, October 5 during lunch (11:44-12:25) and after school 3:00-5:00 pm, outside of the office.
 * Driver's Training, Segment 1, class information: Starts TODAY! All classes will begin at 6:00 pm and ending at 8:00 pm, and are held in room 100. Classes will take place on the following dates: October: 4, 6, 10, 12, 17, 24 and 25 and November: 1, 2, 3, 7, and 8. The cost for Segment 1 will be $275.00, payable by check or money order made payable to Shepherd Public Schools. Spots in Segment 1 are still available. Students must sign up in the high school office. Payment will need to be made before the first class, October 4th, begins.
 * Seniors: There will be a representative from Central Michigan University here on October 4th to meet with students individually. There is a sign up sheet in the senior hallway. Please sign up there.
-
