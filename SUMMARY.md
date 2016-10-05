@@ -1,4 +1,4 @@
-# The Briefing
+# Summary
 
 * [Contents](README.md)
 
