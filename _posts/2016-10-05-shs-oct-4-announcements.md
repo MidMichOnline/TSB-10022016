@@ -1,83 +1,81 @@
 ---
+title: '["[\"[\"[\"Shs Oct 4 Announcements\"]\"]\"]"]'
+date: 2016-10-05 00:00:00 Z
+permalink: 'http://www.shepherdhistory.org/blog/shs-oct-4-announcements/
+
+'
+categories:
+- Uncategorized
 ID: 793
 post_title: SHS Oct. 4 Announcements
 author: Jon Morgan
-post_date: 2016-10-05 18:08:27
-post_excerpt: ""
+post_date: 2016-10-05 18:08:27 Z
+post_excerpt: ''
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/blog/shs-oct-4-announcements/
-published: true
-tags: [ ]
-categories:
-  - Uncategorized
-title:
-  - '["["["Shs Oct 4 Announcements"]"]"]'
-date:
-  - 2016-10-05 00:00:00 Z
 afap_auto_post:
-  - 'no'
+- 'no'
 wide_assets:
-  - ""
+- ''
 custom_sidebar:
-  - none
+- none
 top_term:
-  - "1"
-1:
-  - ""
-2:
-  - ""
-3:
-  - ""
-4:
-  - ""
-5:
-  - ""
-6:
-  - ""
-7:
-  - ""
-8:
-  - ""
-9:
-  - 'yes'
-10:
-  - ""
-11:
-  - none
-12:
-  - "1"
-13:
-  - ""
-14:
-  - 'yes'
-15:
-  - ""
-16:
-  - none
-17:
-  - "1"
-18:
-  - ""
-19:
-  - 'yes'
-20:
-  - ""
-21:
-  - none
-22:
-  - "1"
-23:
-  - ""
-24:
-  - 'yes'
-25:
-  - ""
-26:
-  - none
-27:
-  - "1"
+- '1'
+'1':
+- ''
+'2':
+- ''
+'3':
+- ''
+'4':
+- ''
+'5':
+- ''
+'6':
+- ''
+'7':
+- ''
+'8':
+- ''
+'9':
+- 'yes'
+'10':
+- ''
+'11':
+- none
+'12':
+- '1'
+'13':
+- ''
+'14':
+- 'yes'
+'15':
+- ''
+'16':
+- none
+'17':
+- '1'
+'18':
+- ''
+'19':
+- 'yes'
+'20':
+- ''
+'21':
+- none
+'22':
+- '1'
+'23':
+- ''
+'24':
+- 'yes'
+'25':
+- ''
+'26':
+- none
+'27':
+- '1'
 ---
+
 *From the [Shepherd High School](http://www.shepherdhistory.org/business-directory/name/shepherd-high-school/):*
 
 **Announcements for Tuesday, October 4th!**
