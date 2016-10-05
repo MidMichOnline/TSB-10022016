@@ -1,3 +1,15 @@
+---
+published: false
+ID: 
+post_title: The Brief - October 5, 2016
+author: 
+post_date: 
+post_excerpt: 
+layout: post
+tags: 
+categories: 
+---
+
 # The Brief
 ## October 5, 2016
 
