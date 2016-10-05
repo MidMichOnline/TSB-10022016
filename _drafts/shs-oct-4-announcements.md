@@ -1,28 +1,25 @@
 ---
+title: '["Shs Oct 4 Announcements"]'
+date: 2016-10-05 00:00:00 Z
+permalink: http://www.shepherdhistory.org?p=793&preview=true&preview_id=793
+categories:
+- Uncategorized
 ID: 793
 post_title: SHS Oct. 4 Announcements
 author: Jon Morgan
-post_date: 2016-10-05 18:08:27
-post_excerpt: ""
+post_date: 2016-10-05 18:08:27 Z
+post_excerpt: ''
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=793&preview=true&preview_id=793'
-published: false
-tags: [ ]
-categories:
-  - Uncategorized
-title:
-  - Shs Oct 4 Announcements
-date:
-  - 2016-10-05 00:00:00 Z
 afap_auto_post:
-  - 'yes'
+- 'yes'
 wide_assets:
-  - ""
+- ''
 custom_sidebar:
-  - none
+- none
 top_term:
-  - "1"
+- '1'
 ---
+
 *From the [Shepherd High School](http://www.shepherdhistory.org/business-directory/name/shepherd-high-school/):*
 
 **Announcements for Tuesday, October 4th!**
