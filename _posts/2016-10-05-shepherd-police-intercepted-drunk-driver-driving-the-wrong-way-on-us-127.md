@@ -1,50 +1,46 @@
 ---
-ID: 815
-post_title: >
-  Shepherd Police Intercepted Drunk driver
-  driving the wrong way on US-127
-author: Jon Morgan
-post_date: 2016-10-06 18:09:28
-post_excerpt: ""
-layout: post
-permalink: >
-  http://www.shepherdhistory.org/blog/shepherd-police-intercepted-drunk-driver-driving-the-wrong-way-on-us-127/
-published: true
-tags: [ ]
+title: '["Shepherd Police Intercepted Drunk Driver Driving The Wrong Way On Us 127\n"]'
+date: 2016-10-05 00:00:00 Z
+permalink: 'http://www.shepherdhistory.org/blog/shepherd-police-intercepted-drunk-driver-driving-the-wrong-way-on-us-127/
+
+'
 categories:
-  - Community
-  - Organizations
-title:
-  - >
-    Shepherd Police Intercepted Drunk Driver
-    Driving The Wrong Way On Us 127
-date:
-  - 2016-10-05 00:00:00 Z
-1:
-  - Organizations
-2:
-  - "'"
+- Community
+- Organizations
+ID: 815
+post_title: 'Shepherd Police Intercepted Drunk driver driving the wrong way on US-127
+
+'
+author: Jon Morgan
+post_date: 2016-10-06 18:09:28 Z
+post_excerpt: ''
+layout: post
+'1':
+- Organizations
+'2':
+- "'"
 afap_auto_post:
-  - 'yes'
+- 'yes'
 wide_assets:
-  - ""
+- ''
 custom_sidebar:
-  - none
+- none
 top_term:
-  - "48"
-3:
-  - Organizations
-4:
-  - "'"
-5:
-  - 'yes'
-6:
-  - ""
-7:
-  - none
-8:
-  - "48"
+- '48'
+'3':
+- Organizations
+'4':
+- "'"
+'5':
+- 'yes'
+'6':
+- ''
+'7':
+- none
+'8':
+- '48'
 ---
+
 WNEM5 reports that Shepherd Police caught a drunk driver driving the wrong way on US-127 on Sunday.
 
 <blockquote>
