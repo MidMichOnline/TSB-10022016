@@ -4,9 +4,9 @@
 
 ### Shepherd News
 
-[1](/_posts/2016-10-05-shs-oct-4-announcements.md)
-[2](_posts/2016-10-04-holiday-5k-series-kicks-off-with-haunted-trail-5k-on-october-22.md)
-[3](_drafts/shepherd-police-intercepted-drunk-driver-driving-the-wrong-way-on-us-127.md)
+* [Shs Oct 4 Announcements](/_posts/2016-10-05-shs-oct-4-announcements.md)
+  [Holiday 5k Series Kicks Off With Haunted Trail 5k On October 22](_posts/2016-10-04-holiday-5k-series-kicks-off-with-haunted-trail-5k-on-october-22.md)
+  [3](_drafts/shepherd-police-intercepted-drunk-driver-driving-the-wrong-way-on-us-127.md)
 
 ### Mid Michigan News
 
