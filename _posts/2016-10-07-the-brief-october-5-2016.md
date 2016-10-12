@@ -1,77 +1,86 @@
 ---
-title: '["[\"[\"The Brief October 5 2016\"]\"]"]'
-date: 2016-10-07 00:00:00 Z
-permalink: 'http://www.shepherdhistory.org/blog/the-brief-october-5-2016/
-
-'
-categories:
-- Daily Briefs
 ID: 847
-post_title: The Brief
+post_title: 'The Brief &#8211; October 5, 2016'
 author: Jon Morgan
-post_date: 2016-10-07 18:08:30 Z
-post_excerpt: ''
+post_date: 2016-10-07 18:08:30
+post_excerpt: ""
 layout: post
+permalink: >
+  http://www.shepherdhistory.org/blog/the-brief-october-5-2016/
+published: true
 wide_assets:
-- ''
+  - ""
 afap_auto_post:
-- 'no'
+  - 'no'
 custom_sidebar:
-- none
+  - none
 top_term:
-- '80'
+  - "80"
 featured_media:
-- ''
-'1':
-- ''
-'2':
-- ''
-'3':
-- ''
-'4':
-- ''
-'5':
-- ''
-'6':
-- ''
-'7':
-- ''
-'8':
-- ''
-'9':
-- ''
-'10':
-- ''
-'11':
-- ''
-'12':
-- ''
-'13':
-- ''
-'14':
-- ''
-'15':
-- 'no'
-'16':
-- none
-'17':
-- '80'
-'18':
-- 'a:15:{i:0;s:99:"value="0" /><p class="media-types";i:5;s:99:"media-types-required-info">Required";i:2;s:113:"fields";i:1;s:194:"are
-  marked <span class="required">*</span></p>nttt<table";i:6;s:79:"class="compat-attachment-fields">tt<tr";i:3;s:91:"class=''''''''compat-field-media_credit''''''''>ttt<th";i:7;s:108:"scope=''''''''row''''''''";i:2;s:85:"class=''''''''label''''''''><label";i:4;s:106:"for=''''''''attachments-853-media_credit''''''''><span";i:3;s:106:"class=''''''''alignleft''''''''>Credit</span><br";i:8;s:82:"class=''''''''clear''''''''";i:5;s:121:"/></label></th>nttt<td";i:4;s:169:"class=''''''''field''''''''><input
-  type=''''''''text'''''''' class=''''''''text''''''''";i:9;s:80:"id=''''''''attachments-853-media_credit''''''''";i:6;s:85:"name=''''''''attachments[853][media_credit]''''''''";i:5;s:111:"value=''''''''''''''''";i:10;s:79:"
-  /></td>ntt</tr>ntt<tr";i:7;s:95:"class=''''''''compat-field-media_credit_url''''''''>ttt<th";i:6;s:118:"scope=''''''''row''''''''";i:11;s:90:"class=''''''''label''''''''><label";i:8;s:99:"for=''''''''attachments-853-media_credit_url''''''''><span";i:7;s:88:"class=''''''''alignleft''''''''>Credit";i:12;s:83:"URL</span><br";i:9;s:102:"class=''''''''clear''''''''";i:8;s:155:"/></label></th>nttt<td
-  class=''''''''field''''''''><input type=''''''''text''''''''";i:13;s:92:"class=''''''''text''''''''";i:10;s:129:"id=''''''''attachments-853-media_credit_url''''''''";i:9;s:197:"name=''''''''attachments[853][media_credit_url]''''''''";i:14;s:82:"value=''''''''''''''''  /></td>ntt</tr>ntt<tr";i:11;s:101:"class=''''''''compat-field-navis_media_credit_org''''''''>ttt<th";i:15;s:83:"scope=''''''''row''''''''";i:10;s:187:"class=''''''''label''''''''><label";i:12;s:107:"for=''''''''attachments-853-navis_media_credit_org''''''''><span";i:16;s:77:"class=''''''''alignleft''''''''>Organization</span><br";i:13;s:87:"class=''''''''clear''''''''";i:11;s:111:"/></label></th>nttt<td";i:17;s:89:"class=''''''''field''''''''><input
-  type=''''''''text''''''''";i:14;s:122:"class=''''''''text''''''''";i:12;s:270:"id=''''''''attachments-853-navis_media_credit_org''''''''";i:18;s:79:"name=''''''''attachments[853][navis_media_credit_org]''''''''";i:15;s:102:"value=''''''''''''''''  /></td>ntt</tr>ntt<tr";i:19;s:87:"class=''''''''compat-field-navis_media_can_distribute''''''''>ttt<th";i:16;s:105:"scope=''''''''row''''''''";i:13;s:179:"class=''''''''label''''''''><label";i:20;s:79:"for=''''''''attachments-853-navis_media_can_distribute''''''''><span";i:17;s:101:"class=''''''''alignleft''''''''>Can<br";i:21;s:81:"/>distribute?</span><br";i:14;s:315:"class=''''''''clear''''''''
-  /></label></th>nttt<td";i:18;s:85:"class=''''''''field''''''''><input";i:22;s:101:"id="attachments[853][navis_media_can_distribute]"";i:19;s:79:"name="attachments[853][navis_media_can_distribute]"";i:23;s:76:"type="checkbox"";i:20;s:63:"value="1"  /></td>ntt</tr>n</table>";s:4:"meta";s:0:"";}}}n"";}";}";}
-
-'
-'19':
-- "'"
-'20':
-- "'"
+  - ""
+title:
+  - '["["The Brief October 5 2016"]"]'
+date:
+  - 2016-10-07 00:00:00 Z
+categories:
+  - Daily Briefs
+1:
+  - ""
+2:
+  - ""
+3:
+  - ""
+4:
+  - ""
+5:
+  - ""
+6:
+  - ""
+7:
+  - ""
+8:
+  - ""
+9:
+  - ""
+10:
+  - ""
+11:
+  - ""
+12:
+  - ""
+13:
+  - ""
+14:
+  - ""
+15:
+  - 'no'
+16:
+  - none
+17:
+  - "80"
+18:
+  - ""
+19:
+  - "'"
+20:
+  - "'"
+21:
+  - 'no'
+22:
+  - none
+23:
+  - "80"
+24:
+  - |
+    a:6:{i:0;s:501:"marked <span class="required">*</span></p>nttt<table";i:6;s:79:"class="compat-attachment-fields">tt<tr";i:3;s:91:"class=''''''''compat-field-media_credit''''''''>ttt<th";i:7;s:108:"scope=''''''''row''''''''";i:2;s:85:"class=''''''''label''''''''><label";i:4;s:106:"for=''''''''attachments-853-media_credit''''''''><span";i:3;s:106:"class=''''''''alignleft''''''''>Credit</span><br";i:8;s:82:"class=''''''''clear''''''''";i:5;s:121:"/></label></th>nttt<td";i:4;s:169:"class=''''''''field''''''''><input";i:1;s:222:"type=''''''''text'''''''' class=''''''''text''''''''";i:9;s:80:"id=''''''''attachments-853-media_credit''''''''";i:6;s:85:"name=''''''''attachments[853][media_credit]''''''''";i:5;s:111:"value=''''''''''''''''";i:10;s:79:"";i:2;s:397:"/></td>ntt</tr>ntt<tr";i:7;s:95:"class=''''''''compat-field-media_credit_url''''''''>ttt<th";i:6;s:118:"scope=''''''''row''''''''";i:11;s:90:"class=''''''''label''''''''><label";i:8;s:99:"for=''''''''attachments-853-media_credit_url''''''''><span";i:7;s:88:"class=''''''''alignleft''''''''>Credit";i:12;s:83:"URL</span><br";i:9;s:102:"class=''''''''clear''''''''";i:8;s:155:"/></label></th>nttt<td";i:3;s:722:"class=''''''''field''''''''><input type=''''''''text''''''''";i:13;s:92:"class=''''''''text''''''''";i:10;s:129:"id=''''''''attachments-853-media_credit_url''''''''";i:9;s:197:"name=''''''''attachments[853][media_credit_url]''''''''";i:14;s:82:"value=''''''''''''''''  /></td>ntt</tr>ntt<tr";i:11;s:101:"class=''''''''compat-field-navis_media_credit_org''''''''>ttt<th";i:15;s:83:"scope=''''''''row''''''''";i:10;s:187:"class=''''''''label''''''''><label";i:12;s:107:"for=''''''''attachments-853-navis_media_credit_org''''''''><span";i:16;s:77:"class=''''''''alignleft''''''''>Organization</span><br";i:13;s:87:"class=''''''''clear''''''''";i:11;s:111:"/></label></th>nttt<td";i:17;s:89:"class=''''''''field''''''''><input";i:4;s:647:"type=''''''''text''''''''";i:14;s:122:"class=''''''''text''''''''";i:12;s:270:"id=''''''''attachments-853-navis_media_credit_org''''''''";i:18;s:79:"name=''''''''attachments[853][navis_media_credit_org]''''''''";i:15;s:102:"value=''''''''''''''''  /></td>ntt</tr>ntt<tr";i:19;s:87:"class=''''''''compat-field-navis_media_can_distribute''''''''>ttt<th";i:16;s:105:"scope=''''''''row''''''''";i:13;s:179:"class=''''''''label''''''''><label";i:20;s:79:"for=''''''''attachments-853-navis_media_can_distribute''''''''><span";i:17;s:101:"class=''''''''alignleft''''''''>Can<br";i:21;s:81:"/>distribute?</span><br";i:14;s:315:"class=''''''''clear''''''''";i:5;s:306:"/></label></th>nttt<td";i:18;s:85:"class=''''''''field''''''''><input";i:22;s:101:"id="attachments[853][navis_media_can_distribute]"";i:19;s:79:"name="attachments[853][navis_media_can_distribute]"";i:23;s:76:"type="checkbox"";i:20;s:63:"value="1"  /></td>ntt</tr>n</table>";s:4:"meta";s:0:"";}}}n"";}";}";}";}
+25:
+  - "'"
+26:
+  - "'"
+27:
+  - "'"
+tags: [ ]
 ---
-
 In <a href="https://32bpwr3.gitbooks.io/tsj-10052016/content/">Today's Brief</a>:
 
 <h3>Shepherd News</h3>
