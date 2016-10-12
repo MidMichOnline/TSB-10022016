@@ -1,5 +1,5 @@
 ---
-title: '["[\"[\"The Brief October 5 2016\"]\"]"]'
+title:"The Brief October 5 2016"
 date: 2016-10-07 00:00:00 Z
 permalink: 'http://www.shepherdhistory.org/blog/the-brief-october-5-2016/
 
