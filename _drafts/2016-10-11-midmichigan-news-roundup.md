@@ -11,5 +11,7 @@ wide_assets:
   - ""
 tags: [ ]
 categories:
-  - Uncategorized
+  - Mid Michigan News
+  - Morning Sun Articles
 ---
+* [
