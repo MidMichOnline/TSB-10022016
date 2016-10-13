@@ -1,27 +1,37 @@
 ---
-title: Contributor Profile
-date: 2016-09-17 00:00:00 Z
-permalink: 'http://www.shepherdhistory.org/blog/contributor-profile/
-
-'
-categories:
-- Uncategorized
 ID: 129
-post_title: 'Shepherd Community Friends of the Library Membership Information
-
-'
+post_title: '&#8216;Shepherd Community Friends of the Library Membership Information'
 author: Jon Morgan
-post_date: 2016-09-17 03:48:42 Z
-post_excerpt: ''
+post_date: 2016-09-17 03:48:42
+post_excerpt: ""
 layout: post
+permalink: >
+  http://www.shepherdhistory.org/blog/contributor-profile/
+published: true
 wide_assets:
-- a:1:{i:0;s:0:"";}
+  - ""
 custom_sidebar:
-- a:1:{i:0;s:4:"none";}
+  - ""
+tags: [ ]
+categories:
+  - Uncategorized
 post_views_count:
-- a:1:{i:0;s:18:"a:1:{i:0;s:1:"7";}";}
+  - ""
+title:
+  - Contributor Profile
+date:
+  - 2016-09-17 00:00:00 Z
+1:
+  - Uncategorized
+2:
+  - "'"
+3:
+  - 's:17:"a:1:{i:0;s:0:"";}";'
+4:
+  - 's:21:"a:1:{i:0;s:4:"none";}";'
+5:
+  - 's:36:"a:1:{i:0;s:18:"a:1:{i:0;s:1:"7";}";}";'
 ---
-
 <h1 class="c2 c3">Shepherd Community Friends of the Library Membership Information</h1>
 
 Annual dues for membership with the Friends of the Shepherd Community library are as follows;</p>

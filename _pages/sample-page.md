@@ -1,17 +1,16 @@
 ---
-permalink: 'http://www.shepherdhistory.org/sample-page/
-
-'
 ID: 2
 post_title: Sample Page
 author: Jon Morgan
-post_date: 2016-09-14 02:08:52 Z
-post_excerpt: ''
+post_date: 2016-09-14 02:08:52
+post_excerpt: ""
 layout: page
-tags: []
-categories: []
+permalink: >
+  http://www.shepherdhistory.org/sample-page/
+published: true
+tags: [ ]
+categories: [ ]
 ---
-
 This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 
 <blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>

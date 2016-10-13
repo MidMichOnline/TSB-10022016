@@ -1,27 +1,41 @@
 ---
-title: Demolition Derby Video
-date: 2016-09-21 00:00:00 Z
-permalink: 'http://www.shepherdhistory.org/blog/demolition-derby-video/
-
-'
-categories:
-- Uncategorized
 ID: 173
 post_title: Demolition Derby Video
 author: Jon Morgan
-post_date: 2016-09-21 02:11:32 Z
-post_excerpt: ''
+post_date: 2016-09-21 02:11:32
+post_excerpt: ""
 layout: post
+permalink: >
+  http://www.shepherdhistory.org/blog/demolition-derby-video/
+published: true
 wide_assets:
-- a:1:{i:0;s:0:"";}
+  - ""
 largo_byline_text:
-- a:1:{i:0;s:10:"Jon Morgan";}
+  - ""
 top_term:
-- a:1:{i:0;s:2:"44";}
+  - ""
 custom_sidebar:
-- a:1:{i:0;s:4:"none";}
+  - ""
 largo_custom_related_posts:
-- a:1:{i:0;s:17:"Party in the Park";}
+  - ""
+title:
+  - Demolition Derby Video
+date:
+  - 2016-09-21 00:00:00 Z
+categories:
+  - Uncategorized
+1:
+  - Uncategorized
+2:
+  - 's:17:"a:1:{i:0;s:0:"";}";'
+3:
+  - 's:28:"a:1:{i:0;s:10:"Jon Morgan";}";'
+4:
+  - 's:19:"a:1:{i:0;s:2:"44";}";'
+5:
+  - 's:21:"a:1:{i:0;s:4:"none";}";'
+6:
+  - 's:35:"a:1:{i:0;s:17:"Party in the Park";}";'
+tags: [ ]
 ---
-
 [embed]https://www.youtube.com/watch?v=yU3apyvnDXo[/embed]

@@ -1,23 +1,31 @@
 ---
-title: Old 27 Tour To Pass Through Shepherd On August 25
-date: 2016-09-21 00:00:00 Z
-permalink: 'http://www.shepherdhistory.org/blog/old-27-tour-to-pass-through-shepherd-on-august-25/
-
-'
-categories:
-- Uncategorized
 ID: 125
-post_title: 'Old 27 Tour to pass through Shepherd on August 25
-
-'
-author: ''
-post_date: 2016-09-21 02:11:36 Z
-post_excerpt: ''
+post_title: '&#8216;Old 27 Tour to pass through Shepherd on August 25'
+author: ""
+post_date: 2016-09-21 02:11:36
+post_excerpt: ""
 layout: post
+permalink: >
+  http://www.shepherdhistory.org/blog/old-27-tour-to-pass-through-shepherd-on-august-25/
+published: true
 post_views_count:
-- a:1:{i:0;s:18:"a:1:{i:0;s:1:"2";}";}
+  - ""
+title:
+  - >
+    Old 27 Tour To Pass Through Shepherd On
+    August 25
+date:
+  - 2016-09-21 00:00:00 Z
+categories:
+  - Uncategorized
+1:
+  - Uncategorized
+2:
+  - "'"
+3:
+  - 's:36:"a:1:{i:0;s:18:"a:1:{i:0;s:1:"2";}";}";'
+tags: [ ]
 ---
-
 <h1 class="c0">Old 27 Tour to pass through Shepherd on August 25</h1>
 
 The Old 27 Tour will be leaving St. Louis around 5:15 p.m. and then enter the Village of Shepherd from the West end of town, drive down Wright Avenue, and then head north on Chippewa Street.<br />According to information released by the Old 27 Car Tour Committee, this is the 10th Anniversary of the Old 27 Car Tour.</p>

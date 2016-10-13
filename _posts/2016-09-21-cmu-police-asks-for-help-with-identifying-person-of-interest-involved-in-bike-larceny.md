@@ -1,25 +1,30 @@
 ---
-title: '["a:1:{i:0;s:103:\"a:1:{i:0;s:85:\"CMU Police asks for help with Identifying
-  Person of Interest involved in bike larceny\";}\";}"]'
-date: 2016-09-21 00:00:00 Z
-permalink: 'http://www.shepherdhistory.org/blog/cmu-police-asks-for-help-with-identifying-person-of-interest-involved-in-bike-larceny/
-
-'
-categories:
-- Uncategorized
 ID: 145
-post_title: 'CMU Police asks for help with Identifying Person of Interest involved
-  in bike larceny
-
-'
-author: ''
-post_date: 2016-09-21 02:11:31 Z
-post_excerpt: ''
+post_title: ""
+author: ""
+post_date: 2016-09-21 02:11:31
+post_excerpt: ""
 layout: post
+permalink: >
+  http://www.shepherdhistory.org/blog/cmu-police-asks-for-help-with-identifying-person-of-interest-involved-in-bike-larceny/
+published: true
+title:
+  - |
+    a:1:{i:0;s:52:"Person of Interest involved in bike larceny";}";}"]'";}
 source-id:
-- a:1:{i:0;s:62:"a:1:{i:0;s:44:"1t-g49IoNi-DPOT6p8mRp5Ichy8qPwfKg7T_Nid3QZzs";}";}
+  - ""
+date:
+  - 2016-09-21 00:00:00 Z
+categories:
+  - Uncategorized
+1:
+  - Uncategorized
+2:
+  - "'"
+3:
+  - 's:80:"a:1:{i:0;s:62:"a:1:{i:0;s:44:"1t-g49IoNi-DPOT6p8mRp5Ichy8qPwfKg7T_Nid3QZzs";}";}";'
+tags: [ ]
 ---
-
 [md]
 From the <a href="https://www.facebook.com/cmupolice/">CMU Police Department</a> via the <a href="https://www.facebook.com/isabelleacountysheriffsoffice/">Isabella County Sheriff's Department</a>
 

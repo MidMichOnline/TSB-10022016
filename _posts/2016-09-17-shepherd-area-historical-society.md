@@ -1,23 +1,31 @@
 ---
-title: '["a:1:{i:0;s:44:\"a:1:{i:0;s:26:\"Shepherd Party in the Park\";}\";}"]'
-date: 2016-09-17 00:00:00 Z
-permalink: 'http://www.shepherdhistory.org/blog/shepherd-area-historical-society/
-
-'
-categories:
-- Uncategorized
 ID: 171
 post_title: Shepherd Party in the Park
 author: Jon Morgan
-post_date: 2016-09-17 17:26:41 Z
-post_excerpt: ''
+post_date: 2016-09-17 17:26:41
+post_excerpt: ""
 layout: post
+permalink: >
+  http://www.shepherdhistory.org/blog/shepherd-area-historical-society/
+published: true
 wide_assets:
-- ''
+  - ""
+title:
+  - '["a:1:{i:0;s:44:"a:1:{i:0;s:26:"Shepherd Party in the Park";}";}"]'
 source-id:
-- a:1:{i:0;s:62:"a:1:{i:0;s:44:"14Lg7lOi_eVGgztTckFVgUbHBS-VbF9Jehp_rMm2iEB8";}";}
+  - ""
+date:
+  - 2016-09-17 00:00:00 Z
+categories:
+  - Uncategorized
+1:
+  - Uncategorized
+2:
+  - ""
+3:
+  - 's:80:"a:1:{i:0;s:62:"a:1:{i:0;s:44:"14Lg7lOi_eVGgztTckFVgUbHBS-VbF9Jehp_rMm2iEB8";}";}";'
+tags: [ ]
 ---
-
 Coordinators and volunteers kept the party going on Saturday despite the rain we had in the morning. When I visited the already-in-progress Party in the Park, all of the events had been moved underneath the giant tent which had been set up. Players were competing in the Cornhole tournament, and volunteers were manning the different stations in the Children's games area.
 
 [View photos from Saturday](https://www.facebook.com/media/set/?set=a.10154567128260921.1073741851.153140150920&amp;type=1&amp;l=bbcd87fb5e).

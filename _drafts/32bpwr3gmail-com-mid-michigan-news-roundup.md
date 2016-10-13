@@ -1,17 +1,23 @@
 ---
-title: 32bpwr3gmail Com Mid Michigan News Roundup
-date: 2016-10-04 23:32:02.906000000 Z
-permalink: http://www.shepherdhistory.org/?post_type=fork&p=128
 ID: 128
-post_title: 32bpwr3gmail-com &#187; Mid Michigan News Roundup
+post_title: '32bpwr3gmail-com &#187; Mid Michigan News Roundup'
 author: Jon Morgan
-post_date: 2016-09-25 22:48:46 Z
-post_excerpt: ''
+post_date: 2016-10-11 22:25:35
+post_excerpt: ""
 layout: fork
+permalink: 'http://www.shepherdhistory.org/?post_type=fork&p=128'
+published: false
 wide_assets:
-- a:1:{i:0;s:0:"";}
+  - ""
+tags: [ ]
+categories: [ ]
+title:
+  - >
+    32bpwr3gmail Com Mid Michigan News
+    Roundup
+date:
+  - 2016-10-04 23:32:02.906000000 Z
 ---
-
 <img src="http://www.shepherdhistory.org/wp-content/uploads/2016/09/cropped-101_0133-300x109.jpg" alt="cropped-101_0133.jpg" width="300" height="109" class="alignnone size-medium wp-image-32" />
 
 <h1>September 16, 2016</h1>
